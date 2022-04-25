@@ -1,7 +1,4 @@
 ### Hi there 👋, my name is Marcin
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-Skills: PYTHON / DJANGO/ FASTAPI/ POSTGRESQL/ 
 
 - 🔭 I’m currently working on as a personal trainer 
 - 🌱 I’m currently learning PYTHON, DJANGO, JAVASCRIPTS 
