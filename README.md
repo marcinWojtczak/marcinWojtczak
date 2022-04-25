@@ -4,8 +4,10 @@
 
 Skills: PYTHON / DJANGO/ FASTAPI/ POSTGRESQL/ 
 
-
-- 🌱 I’m currently learning PYTHON, JAVASCRIPTS and framework DJANGO  
+- 🔭 I’m currently working on as a personal trainer 
+- 🌱 I’m currently learning PYTHON, DJANGO, JAVASCRIPTS 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marcinWojtczak)  
+
+
