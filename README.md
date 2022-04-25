@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Marcin
 
-- 🔭 I’m currently working on as a personal trainer 
+- 🔭 I’m currently working as a personal trainer 
 - 🌱 I’m currently learning PYTHON, DJANGO, JAVASCRIPTS 
 - 📫 How to reach me: marcinwojtczak.pure@gmail.com 
 - 😄 Pronouns: he / him 
