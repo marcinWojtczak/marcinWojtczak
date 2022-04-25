@@ -1,7 +1,5 @@
-### Hi there 👋
-
 ### Hi there 👋, my name is Marcin
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 
 Skills: PYTHON / DJANGO/ FASTAPI/ POSTGRESQL/ 
