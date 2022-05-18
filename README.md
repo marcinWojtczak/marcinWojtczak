@@ -1,7 +1,9 @@
 ### Hi there 👋, my name is Marcin
+I'm personal tariner and begginer developer. I have decide to change my career path. For last 2 years I have been focusing on developing my skills as a developer.
 
-- 🔭 I’m currently working as a personal trainer 
-- 🌱 I’m currently learning PYTHON, DJANGO, JAVASCRIPTS 
+
+- 🔭 I work as a personal trainer,  
+- 🌱 I’m currently improving my PYTHON and DJANGO skills
 - 📫 How to reach me: marcinwojtczak.pure@gmail.com 
 - 😄 Pronouns: he / him 
 
