@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Marcin
-I'm personal tariner and begginer developer. I have decide to change my career path. For last 2 years I have been focusing on developing my skills as a developer.
+I'm a personal tariner and a beginning developer. I have decided to change my career path that is why for last 2 years I have been focusing on improving my skills as a developer.
 
 
 - 🔭 I work as a personal trainer,  
