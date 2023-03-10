@@ -3,7 +3,7 @@ I'm a personal trainer and a beginning developer. I have decided to change my ca
 
 
 - 🔭 I work as a personal trainer,  
-- Curently improving my React, JavaScritp and TypeScrips skills.
+- Currently improving my React, JavaScript and TypeScrips skills.
 - 🌱 Languages and tools:
 - [![My Skills](https://skills.thijs.gg/icons?i=py,js,ts,react,django,html,css)](https://skills.thijs.gg)
 - 📫 How to reach me: marcinwojtczak.pure@gmail.com 
