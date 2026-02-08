@@ -1,13 +1,30 @@
-### Hi there 👋, my name is Marcin
-I'm a personal trainer and a beginning developer. I have decided to change my career path, that is why for last 2 years I have been focusing on improving my skills as a developer.
+# Hi, I'm Marcin Wojtczak
 
+  Entry-level Cybersecurity Professional with a Purple Team mindset.
 
-- 🔭 I work as a personal trainer,  
-- Currently improving my React, JavaScript and TypeScrips skills.
-- 🌱 Languages and tools:
-- [![My Skills](https://skills.thijs.gg/icons?i=py,js,ts,react,django,nextjs,html,css,tailwind)](https://skills.thijs.gg)
-- 📫 How to reach me: marcinwojtczak.pure@gmail.com 
-- 😄 Pronouns: he / him 
+  ## Currently Learning
+  - HTB Academy CPTS Path (Penetration Testing)
+  - SOC operations & threat hunting
+
+  ## Skills
+  **Offensive:** Burp Suite, Metasploit, Nmap
+  **Defensive:** Splunk, Wireshark, LimaCharlie, Sysmon, Windows Event Logs
+  **Programming:** Python, JavaScript
+  **Frameworks:** MITRE ATT&CK
+
+  ## Projects
+  - [Python Port Scanner](https://github.com/marcinWojtczak/python-port-scanner-) - TCP port scanner for network
+  reconnaissance
+
+  ## Certifications
+  - CompTIA Security+ (completed training)
+  - TCM Security: SOC 101, Practical Ethical Hacking
+
+  ## Contact
+  - Email: marcinwojtczak.pure@gmail.com
+
+  ---
+  *Open to entry-level SOC Analyst / Junior Pentester opportunities*
 
 
 
